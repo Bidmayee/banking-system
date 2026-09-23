@@ -15,7 +15,7 @@ FEATURES
 
 PROJECT STRUCTURE
 
-Banking System
+Banking System/
 ├── main.py
 ├── mainMenu.py
 ├── createAccount.py
